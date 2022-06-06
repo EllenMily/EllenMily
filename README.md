@@ -16,4 +16,4 @@
          <img align="center"  width="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
 
- ![Snake animation](https://github.com/ellenmily/ellenmily/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/EllenMily/EllenMily/blob/output/github-contribution-grid-snake.svg)
