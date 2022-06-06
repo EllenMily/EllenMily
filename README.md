@@ -18,5 +18,6 @@
          <img align="center"  width="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
 
-<div class="tenor-gif-embed" data-postid="13655998" data-share-method="host" data-aspect-ratio="0.8" data-width="100%"><a href="https://tenor.com/view/business-cat-working-cat-boss-angry-gif-13655998">Business Cat Working GIF</a>from <a href="https://tenor.com/search/business+cat-gifs">Business Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
+<div>
+     <img align="center" src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://tenor.com/view/business-cat-working-cat-boss-angry-gif-13655998)">
+</div>
