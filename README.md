@@ -19,7 +19,7 @@
 
 <div> 
 <a target="_blank" href="https://www.linkedin.com/in/ellen-mily-silva/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><a/>
-  <a href="https://instagram.com/elle.love.pdf?igshid=NTc4MTIwNjQ2YQ==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/elle_.mily/==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <br />
 </div>
   
