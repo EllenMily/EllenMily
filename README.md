@@ -1,6 +1,6 @@
 ## Olá, Eu sou a Ellen!
 
-### 📫 Você pode falar comigo pelo email: ellenmilysilva@gmail.com pelo Linkedin ou pelo direct do Instagram
+### 📫 Você pode falar comigo pelo email: ellendevsilva@gmail.com pelo Linkedin ou pelo direct do Instagram
 
 ##
   <h3>Hablidades nas seguintes tecnologias:</h3>
